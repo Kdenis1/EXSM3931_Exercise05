@@ -1,0 +1,4 @@
+***You can add a README file to a repository to communicate important information about your project. A README, along with a repository license, citation file, contribution guidelines, and a code of conduct, communicates expectations for your project and helps you manage contributions.***
+ **little resume about myself** would be a hard working fellow that started in trades after a sales career accompanied by Restraunt and hospitality bacground. From an agricultural family that has owned and operated multial buisnesses.
+ ### Markdown cheatsheet [Google](https://blog.sellfy.com/wp-content/uploads/2014/12/A-Printable-Markdown-Cheat-Sheet.png) 
+ 
